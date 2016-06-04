@@ -11,3 +11,5 @@ Im Repository oder hier ein Foto der fertig bestückten Platine: https://www.ran
 Hier ein Video mit Anleitung zum Platinen herstellen: https://youtu.be/-L1i9SnYGaU
 
 Grüße Tobi
+
+![alt tag](https://raw.githubusercontent.com/ranger81/OpenHPI-Embedded-Smart-Home-PCB/master/pcb.jpg)
