@@ -2,7 +2,7 @@
 
 Fertiges Platinenlayout für das OpenHPI Embedded Smart Home Project 06/2016.
 
-Ich habe mir das nötige Platinenlayout in Eagle nochmal nachgezeichnet (inkl. der zwei fehlenden Pulldown-Widerstände) und mir selbst eine Platine hergestellt. Vielleicht kann ja jemand mein Layout brauchen...
+Ich habe mir das nötige Platinenlayout in Eagle nochmal nachgezeichnet (inkl. der zwei fehlenden Pulldown-Widerstände) und mir selbst eine einseitige(!) Platine hergestellt. Vielleicht kann ja jemand mein Layout brauchen...
 
 Die Selberätzer können sich das Layout im Repository oder hier als PDF herunterladen: https://www.ranger81.de/_sub/temp/EmbeddedSmartHomePCB.pdf Das Layout ist für die Unterseite der Platine, entsprechend nicht gespiegelt ausdrucken.
 
