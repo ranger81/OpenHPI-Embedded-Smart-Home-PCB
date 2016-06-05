@@ -10,6 +10,8 @@ Im Repository oder hier ein Foto der fertig bestückten Platine: https://www.ran
 
 Hier ein Video mit Anleitung zum Platinen herstellen: https://youtu.be/-L1i9SnYGaU
 
+Anstatt dem Feuchtigkeit und Temperatursensor verwende ich einfache Thermistoren. Die Sensoren gibt es bei Conrad derzeit nicht mehr lieferbar, deswegen ist der Schaltplan an dieser Stelle auch etwas modifiziert, um einfach irgendwelche "dummy"-Werte zu liefern. Wer den richtigen Sensor hat, muss den Schaltplan also noch ein klein wenig umbauen mit Hilfe der Daten auf GitHub und der Freeware-Version von Eagle.
+
 Grüße Tobi
 
 ![alt tag](https://raw.githubusercontent.com/ranger81/OpenHPI-Embedded-Smart-Home-PCB/master/pcb.jpg)
